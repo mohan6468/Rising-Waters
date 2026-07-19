@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+find_seed.py
+test_acc.py
